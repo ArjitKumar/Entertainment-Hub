@@ -7,6 +7,8 @@
 </tr>
 </table>
 
-## [Click Here to Watch Full tutorial on Youtube](https://www.youtube.com/watch?v=IQXjO0t4XRM&list=PLKhlp2qtUcSYC7EffnHzD-Ws2xG-j3aYo)
+##
+Design and Developed a React based Movie Trailer App. It
+allows users to watch top trending movie trailers.
 
 ![MOVIE APP](https://user-images.githubusercontent.com/51760520/124705920-1172ac80-df14-11eb-9568-1e91968b1273.png)
